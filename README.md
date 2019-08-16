@@ -8,7 +8,7 @@
 |                                                               |             |
 
 ## React Projects
-| Name                     | CreatedDate |
-|--------------------------|-------------|
-| Calculator (In Progress) | 07/20/19    |
-|                          |             |
+| Name                                                                      | CreatedDate |
+|---------------------------------------------------------------------------|-------------|
+| [Calculator (In Progress)](https://github.com/caestrada/React-Calculator) | 07/20/19    |
+|                                                                           |             |
