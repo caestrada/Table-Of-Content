@@ -6,7 +6,8 @@
 | [Calculator](https://github.com/caestrada/Flutter-Calculator)                                         | 07/20/19    |
 | [Chat App](https://github.com/caestrada/Flutter-Chat-App)                                             | 07/26/19    |
 | [ChangeNotifiers and Provider](https://github.com/caestrada/Flutter-ChangeNotifiers-and-Provider)     | 08/05/19    |
-| [Flutter Clock Tensor Example (In Progress)](https://github.com/caestrada/Clock-Contest-Tensor-Example)             | 12/12/19    |
+| [Flutter Clock Tensor Example](https://github.com/caestrada/Clock-Contest-Tensor-Example)             | 12/12/19    |
+| [Flutter & Firebase Auth (In Progress)](https://www.youtube.com/watch?v=u_Lyx8KJWpg&t=314s)                         | 12/22/19    |
 
 ## React Projects
 | Name                                                                      | CreatedDate |
