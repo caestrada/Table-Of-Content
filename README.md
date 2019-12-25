@@ -19,4 +19,4 @@
 | Name                                              | CreatedDate |
 |---------------------------------------------------|-------------|
 | [wiki_api](https://github.com/caestrada/wiki_api) | 10/30/19    |
-| [GraphQL Node Tutorial](https://www.howtographql.com/graphql-js/0-introduction/) (In Progress) |             |
+| [GraphQL Node Tutorial](https://www.howtographql.com/graphql-js/0-introduction/) (In Progress) | 12/25/19  |
