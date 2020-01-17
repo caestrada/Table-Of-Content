@@ -9,7 +9,7 @@
 | [Flutter Clock Tensor Example](https://github.com/caestrada/Clock-Contest-Tensor-Example)             | 12/12/19    |
 | [Flutter & Firebase Auth (In Progress)](https://github.com/caestrada/Flutter-Firebase-Auth)           | 12/22/19    |
 | [Build a Social Network with Flutter and Firebase (In Progress)](https://github.com/caestrada/fluttershare)           | 12/28/19    |
-| [Flutter Provider: Intro (In Progress)](https://github.com/caestrada/Flutter-Firebase-Auth)           | 01/17/20    |
+| [Flutter Provider Example (In Progress)](https://github.com/caestrada/Provider-Example)               | 01/17/20    |
 
 ## React Projects
 | Name                                                                      | CreatedDate |
