@@ -15,7 +15,7 @@
 | Name                                                                                  | CreatedDate |
 |---------------------------------------------------------------------------------------|-------------|
 | [Calculator (In Progress)](https://github.com/caestrada/React-Calculator)             | 07/20/19    |
-| [Simple Counter React State](https://github.com/caestrada/Simple-Counter-React-State) |             |
+| [Simple Counter React State](https://github.com/caestrada/Simple-Counter-React-State) | 03/27/20    |
 |                                                                                       |             |
 
 ## Node.js Project
