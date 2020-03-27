@@ -12,10 +12,11 @@
 | [Flutter Provider Example (In Progress)](https://github.com/caestrada/Provider-Example)               | 01/17/20    |
 
 ## React Projects
-| Name                                                                      | CreatedDate |
-|---------------------------------------------------------------------------|-------------|
-| [Calculator (In Progress)](https://github.com/caestrada/React-Calculator) | 07/20/19    |
-|                                                                           |             |
+| Name                                                                                  | CreatedDate |
+|---------------------------------------------------------------------------------------|-------------|
+| [Calculator (In Progress)](https://github.com/caestrada/React-Calculator)             | 07/20/19    |
+| [Simple Counter React State](https://github.com/caestrada/Simple-Counter-React-State) |             |
+|                                                                                       |             |
 
 ## Node.js Project
 | Name                                              | CreatedDate |
