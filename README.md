@@ -17,6 +17,7 @@
 | [Calculator (In Progress)](https://github.com/caestrada/React-Calculator)             | 07/20/19    |
 | [Simple Counter React State](https://github.com/caestrada/Simple-Counter-React-State) | 03/27/20    |
 | [Grudges React State](https://github.com/caestrada/Grudges-React-State)               | 03/30/20    |
+| [Star Wars React State](https://github.com/caestrada/Star-Wars-React-State)           | 03/31/20    |
 
 ## Node.js Project
 | Name                                              | CreatedDate |
