@@ -12,7 +12,7 @@
 | [Flutter Provider Example (In Progress)](https://github.com/caestrada/Provider-Example)               | 01/17/20    |
 | [The App Brewery: Flutter State Management](https://github.com/caestrada/The-App-Brewery-Flutter-State-Management)               | 04/27/20    |
 | [Training & Diet App](https://github.com/caestrada/Training-Diet-App)               | 04/28/20    |
-| [The Boring Flutter Show - Pilot Episode]()               | 05/06/20    |
+| [The Boring Flutter Show - Pilot Episode](https://github.com/caestrada/hn_app)               | 05/06/20    |
 
 ## React Projects
 | Name                                                                                  | CreatedDate |
