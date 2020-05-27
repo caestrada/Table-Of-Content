@@ -3,7 +3,7 @@
 ## Flutter Projects
 | Name                                                                                    | Type        | CreatedDate |
 |-----------------------------------------------------------------------------------------|-------------|-------------|
-| [Frontend Masters - Fox Game]()                      | Javascript  | 05/06/20    |
+| [Frontend Masters - Fox Game](https://github.com/caestrada/fox-game)                    | Javascript  | 05/06/20    |
 | [The Boring Flutter Show - Hacker News App](https://github.com/caestrada/hn_app)    | Flutter     | 05/06/20    |
 | [Training & Diet App](https://github.com/caestrada/Training-Diet-App)               | Flutter     | 04/28/20    |
 | [The App Brewery: Flutter State Management](https://github.com/caestrada/The-App-Brewery-Flutter-State-Management)               | Flutter     | 04/27/20    |
