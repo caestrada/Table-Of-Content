@@ -11,8 +11,8 @@
 | [Simple Counter React State](https://github.com/caestrada/Simple-Counter-React-State) | React       | 03/27/20    |
 | [Flutter Provider Example (In Progress)](https://github.com/caestrada/Provider-Example) | Flutter     | 01/17/20    |
 | [Build a Social Network with Flutter and Firebase (In Progress)](https://github.com/caestrada/fluttershare) | Flutter     | 12/28/19    |
-| [Flutter & Firebase Auth (In Progress)](https://github.com/caestrada/Flutter-Firebase-Auth)   | Flutter     | 12/22/19    |
 | [GraphQL Node Tutorial](https://www.howtographql.com/graphql-js/0-introduction/) (In Progress) | Node        | 12/25/19  |
+| [Flutter & Firebase Auth (In Progress)](https://github.com/caestrada/Flutter-Firebase-Auth)   | Flutter     | 12/22/19    |
 | [Flutter Clock Tensor Example](https://github.com/caestrada/Clock-Contest-Tensor-Example) | Flutter     | 12/12/19    |
 | [wiki_api](https://github.com/caestrada/wiki_api)                                       | Node        | 10/30/19    |
 | [ChangeNotifiers and Provider](https://github.com/caestrada/Flutter-ChangeNotifiers-and-Provider) | Flutter | 08/05/19    |
