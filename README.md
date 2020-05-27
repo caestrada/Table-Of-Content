@@ -23,7 +23,7 @@
 | [Star Wars React State](https://github.com/caestrada/Star-Wars-React-State)           | 03/31/20    |
 
 ## Node.js Project
-| Name                                              | CreatedDate |
-|---------------------------------------------------|-------------|
-| [wiki_api](https://github.com/caestrada/wiki_api) | 10/30/19    |
-| [GraphQL Node Tutorial](https://www.howtographql.com/graphql-js/0-introduction/) (In Progress) | 12/25/19  |
+| Name                                              | Type        | CreatedDate |
+|---------------------------------------------------|-------------|-------------|
+| [wiki_api](https://github.com/caestrada/wiki_api) | Node        | 10/30/19    |
+| [GraphQL Node Tutorial](https://www.howtographql.com/graphql-js/0-introduction/) (In Progress) | Node        | 12/25/19  |
