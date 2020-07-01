@@ -3,6 +3,7 @@
 ## Flutter Projects
 | Name                                                                                    | Type        | CreatedDate |
 |-----------------------------------------------------------------------------------------|-------------|-------------|
+| [Codelab: First Flutter App](https://github.com/caestrada/Write-your-first-Flutter-app-part-1)    | Flutter     | 06/30/20    |
 | [The Boring Flutter Show - Hacker News App (w/Provider)](https://github.com/caestrada/hn_app_provider)    | Flutter     | 06/18/20    |
 | [The Boring Flutter Show - Dash Cast App](https://github.com/caestrada/DashCast)    | Flutter     | 05/08/20    |
 | [Frontend Masters - Fox Game](https://github.com/caestrada/fox-game)                    | Javascript  | 05/06/20    |
