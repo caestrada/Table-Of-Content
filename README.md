@@ -3,7 +3,7 @@
 ## Flutter Projects
 | Name                                                                                    | Type        | CreatedDate |
 |-----------------------------------------------------------------------------------------|-------------|-------------|
-| [Codelab: Multi-platform Firestore Flutter]()    | Flutter     | 07/09/20    |
+| [Codelab: Multi-platform Firestore Flutter](https://github.com/caestrada/codelab-friendlyeats)    | Flutter     | 07/09/20    |
 | [Codelab: First Flutter App](https://github.com/caestrada/Write-your-first-Flutter-app-part-1)    | Flutter     | 06/30/20    |
 | [The Boring Flutter Show - Hacker News App (w/Provider)](https://github.com/caestrada/hn_app_provider)    | Flutter     | 06/18/20    |
 | [The Boring Flutter Show - Dash Cast App](https://github.com/caestrada/DashCast)    | Flutter     | 05/08/20    |
