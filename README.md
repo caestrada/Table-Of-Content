@@ -3,6 +3,8 @@
 ## Flutter Projects
 | Name                                                                                    | Type        | CreatedDate |
 |-----------------------------------------------------------------------------------------|-------------|-------------|
+| [FM: Four Semesters of CS in 5 hours](https://github.com/caestrada/four-semesters-of-cs-in-5hrs)    | Full Stack  | 07/23/20    |
+
 | [FM: Complete Intro to Web Dev](https://github.com/caestrada/complete-intro-to-web-dev)    | Full Stack  | 07/23/20    |
 | [Codelab: Multi-platform Firestore Flutter](https://github.com/caestrada/codelab-friendlyeats)    | Flutter     | 07/09/20    |
 | [Codelab: First Flutter App](https://github.com/caestrada/Write-your-first-Flutter-app-part-1)    | Flutter     | 06/30/20    |
