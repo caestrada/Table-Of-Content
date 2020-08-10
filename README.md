@@ -3,7 +3,7 @@
 ## Flutter Projects
 | Name                                                                                    | Type        | CreatedDate | Status |
 |-----------------------------------------------------------------------------------------|-------------|-------------|--------|
-| [YT: Starting Todo App with Firebase & GetX](https://www.youtube.com/watch?v=LRwyTKGTl0Q&t=265s)    | Flutter  | 08/09/20    | In Progress |
+| [YT: Starting Todo App with Firebase & GetX](https://github.com/caestrada/todo_app)    | Flutter  | 08/09/20    | In Progress |
 | [FM: Four Semesters of CS in 5 hours](https://github.com/caestrada/four-semesters-of-cs-in-5hrs)    | Full Stack  | 07/23/20    | Done |
 | [FM: Complete Intro to Web Dev](https://github.com/caestrada/complete-intro-to-web-dev)    | Full Stack  | 07/23/20    | |
 | [Codelab: Multi-platform Firestore Flutter](https://github.com/caestrada/codelab-friendlyeats)    | Flutter     | 07/09/20    | |
